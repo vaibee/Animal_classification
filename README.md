@@ -8,19 +8,10 @@ The dataset used for this project consists of a collection of images of various 
 
 ## Usage
 1. **Download the dataset and place it in the `data/` directory.**
-2. **Preprocess the data:**
+2. **Train the model:**
     ```
-    python preprocess.py
+        
     ```
-3. **Train the model:**
-    ```
-    python train.py
-    ```
-4. **Evaluate the model:**
-    ```
-    python evaluate.py
-    ```
-
 ## Model
 The classification model used in this project is a convolutional neural network (CNN) integrated with Tensorflow Architecture, which is well-suited for image classification tasks.
 
