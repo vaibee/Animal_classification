@@ -10,17 +10,16 @@ The dataset used for this project consists of a collection of images of various 
 1. **Download the dataset and place it in the `data/` directory.**
 2. **Train the model:**
     ```
-        
+        Animal_Classification_proj.ipynb
     ```
 ## Model
 The classification model used in this project is a convolutional neural network (CNN) integrated with Tensorflow Architecture, which is well-suited for image classification tasks.
 
 ## Results
 After training the model on the dataset, the following results were obtained:
-- **Accuracy:** XX%
-- **Precision:** XX%
-- **Recall:** XX%
-- **F1-score:** XX%
+- **Accuracy:** 92%
+- **Precision:** 95%
+
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request with any enhancements or fixes.
